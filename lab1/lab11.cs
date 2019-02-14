@@ -11,7 +11,7 @@ namespace ConsoleApp22
         static void Main(string[] args)
         {
             int n=int.Parse(Console.ReadLine());
-            int[] a = new int[n];
+            int[] a = new int[n];                             // создаем массив 
             string[] s = Console.ReadLine().Split();         //split нужен для того чтобы разделить по частям строку 
 
             for (int i = 0; i < n; i++)                         //пробегаемся по форику 
