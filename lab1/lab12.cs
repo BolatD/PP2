@@ -7,19 +7,21 @@ using System.Threading.Tasks;
 namespace ConsoleApp26
 {
     class Program
-               //Task2
-    {                                                                        //создаем класс
+               
+    {                                                                        
         static void Main(string[] args)
         {
-            Student s1 = new Student("Bolat", "18BD1111**", 1);         // и внутри класса создаем стринг s1
-            s1.September();
+            Student s1 = new Student("Bolat", "18BD1111**", 1);         // внутри класса создаем стринг s1
+            s1.September();    //вызываю функцию 
+
+
         }
     }
     class Student                                                 //для string s1 создаем отдельный класс
     {
-        string Name { get; set; }                                 //внуртри класса выводим данные студента ,
-        string ID { get; set; }
-        int YoS { get; set; }
+        string Name;                                //внуртри класса выводим данные студента 
+        string ID;
+        int YoS;
         public Student(string Name, string ID, int YoS)         // конструктор создаем
         {
             this.Name = Name;
