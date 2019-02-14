@@ -13,18 +13,16 @@ namespace ConsoleApp25
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            int[] a = new int[n];                                   //cоздаем массив
-            string[] s = Console.ReadLine().Split();         //split нужен для того чтоб разделить по частям строку 
-
-            for (int i = 0; i < n; i++)                         //пробегаемся по форику 
-            {
-                a[i] = int.Parse(s[i]);                    //массиву даем значение int 
+            string[] a = (Console.ReadLine()); //переводим в int первую строку 
+            string[] b = new string[n * 2];  //создаем новый массив в котором будут храниться числа с дубликатами 
+            for (int i = 0;  i<n; i++){  //пробегаемся по циклу 
+                b[i * 2] = a[i];           //делаем дубликаты 
+                b[i * 2 + 1] = a[i];
             }
-              for(int i = 0; i < n; i++)
-            {
-                Console.Write(a[i] +" "+a[i]+ " " );          // каждый a[i] выводим по два раза через пробел ,это и есть дубликаты 
+            for( int i = 0; i < n * 2; i++)
+            {                                   //выводим числа 
+                Console.Write(b[i] + " ");
             }
-
         }
     }
 }
