@@ -11,10 +11,10 @@ namespace ConsoleApp27
     {
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader("input.txt"); // считываем с input.txt 
+            StreamReader sr = new StreamReader(@"C:\Users\Диана\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\input"); // считываем с input.txt 
             string s = sr.ReadToEnd(); // и все записываем как строку s
             sr.Close(); // закрываем StreamReader
-            StreamWriter sw = new StreamWriter("output.txt"); // в конце выведим все данные на output.txt 
+            StreamWriter sw = new StreamWriter(@"C:\Users\Диана\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\output"); // в конце выведим все данные на output.txt 
             string[] s1 = s.Split(); // строку s поделили и внесли это в массив
             for (int i = 0; i < s1.Length; i++) // пробегаемся по массиву
             {
