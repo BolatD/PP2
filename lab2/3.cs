@@ -15,14 +15,14 @@ namespace ConsoleApp7
                 Console.Write("     ");
             }
         }
-        public static void Folders(DirectoryInfo dir, int x)
+        public static void Folders(DirectoryInfo d1, int x)
         {
-            foreach (FileInfo f in dir.GetFiles()) // пробегаемся по всем файлам в указанной Directory 
+            foreach (FileInfo f in d1.GetFiles()) // пробегаемся по всем файлам в указанной Directory 
             {
                 Probels(x); // вызываем функцию пробелов
                 Console.WriteLine(f.Name); // и выводим имя файла
             }
-            foreach (DirectoryInfo d in dir.GetDirectories()) // пробегаемся по всем папкам в указанной Directory
+            foreach (DirectoryInfo d in d1.GetDirectories()) // пробегаемся по всем папкам в указанной Directory
             {
                 Probels(x); // вызываем функцию пробелов
                 Console.WriteLine(d.Name); // выводим имя папки
