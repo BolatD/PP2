@@ -1,0 +1,11 @@
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\bin\Debug\netcoreapp2.1\lab2_1.deps.json
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\bin\Debug\netcoreapp2.1\lab2_1.runtimeconfig.json
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\bin\Debug\netcoreapp2.1\lab2_1.runtimeconfig.dev.json
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\bin\Debug\netcoreapp2.1\lab2_1.dll
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\bin\Debug\netcoreapp2.1\lab2_1.pdb
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\obj\Debug\netcoreapp2.1\lab2_1.csprojAssemblyReference.cache
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\obj\Debug\netcoreapp2.1\lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\obj\Debug\netcoreapp2.1\lab2_1.AssemblyInfoInputs.cache
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\obj\Debug\netcoreapp2.1\lab2_1.AssemblyInfo.cs
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\obj\Debug\netcoreapp2.1\lab2_1.dll
+C:\Users\Диана\Desktop\pp2\lab2\lab2_1\lab2_1\obj\Debug\netcoreapp2.1\lab2_1.pdb

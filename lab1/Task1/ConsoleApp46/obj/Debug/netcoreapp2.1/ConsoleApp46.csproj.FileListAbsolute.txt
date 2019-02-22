@@ -1,0 +1,11 @@
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\bin\Debug\netcoreapp2.1\ConsoleApp46.deps.json
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\bin\Debug\netcoreapp2.1\ConsoleApp46.runtimeconfig.json
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\bin\Debug\netcoreapp2.1\ConsoleApp46.runtimeconfig.dev.json
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\bin\Debug\netcoreapp2.1\ConsoleApp46.dll
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\bin\Debug\netcoreapp2.1\ConsoleApp46.pdb
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\obj\Debug\netcoreapp2.1\ConsoleApp46.csprojAssemblyReference.cache
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\obj\Debug\netcoreapp2.1\ConsoleApp46.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\obj\Debug\netcoreapp2.1\ConsoleApp46.AssemblyInfoInputs.cache
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\obj\Debug\netcoreapp2.1\ConsoleApp46.AssemblyInfo.cs
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\obj\Debug\netcoreapp2.1\ConsoleApp46.dll
+C:\Users\Диана\Desktop\pp2\lab1\Task1\ConsoleApp46\obj\Debug\netcoreapp2.1\ConsoleApp46.pdb
